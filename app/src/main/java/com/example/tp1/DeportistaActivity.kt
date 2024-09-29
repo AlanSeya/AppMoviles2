@@ -36,6 +36,8 @@ class DeportistaActivity : AppCompatActivity() {
         // Asignar el listener al botón Volver
         buttonVolver.setOnClickListener {
             finish() // Finaliza la actividad actual y regresa a la anterior
+
+
         }
     }
 }
